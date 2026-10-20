@@ -1,0 +1,2062 @@
+[
+  {
+    "id": "cz-001",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce byla založena Univerzita Karlova?",
+    "answer": 1348
+  },
+  {
+    "id": "cz-002",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce vzniklo samostatné Československo?",
+    "answer": 1918
+  },
+  {
+    "id": "cz-003",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce začala sametová revoluce?",
+    "answer": 1989
+  },
+  {
+    "id": "cz-004",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce vznikla samostatná Česká republika?",
+    "answer": 1993
+  },
+  {
+    "id": "cz-005",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce proběhla bitva na Bílé hoře?",
+    "answer": 1620
+  },
+  {
+    "id": "cz-006",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce zemřel Karel IV.?",
+    "answer": 1378
+  },
+  {
+    "id": "cz-007",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce byl upálen mistr Jan Hus?",
+    "answer": 1415
+  },
+  {
+    "id": "cz-008",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce skončila druhá světová válka v Evropě?",
+    "answer": 1945
+  },
+  {
+    "id": "cz-009",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce začala první světová válka?",
+    "answer": 1914
+  },
+  {
+    "id": "cz-010",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce byla podepsána Zlatá bula sicilská?",
+    "answer": 1212
+  },
+  {
+    "id": "cz-011",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik krajů má Česká republika včetně hlavního města Prahy?",
+    "answer": 14
+  },
+  {
+    "id": "cz-012",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik států sousedí s Českou republikou?",
+    "answer": 4
+  },
+  {
+    "id": "cz-013",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik metrů měří Sněžka?",
+    "answer": 1603
+  },
+  {
+    "id": "cz-014",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik kilometrů přibližně měří řeka Vltava?",
+    "answer": 430
+  },
+  {
+    "id": "cz-015",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik oceánů se běžně rozlišuje na Zemi?",
+    "answer": 5
+  },
+  {
+    "id": "cz-016",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik světadílů se běžně rozlišuje?",
+    "answer": 7
+  },
+  {
+    "id": "cz-017",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik metrů měří nejvyšší hora světa Mount Everest podle tradičního údaje?",
+    "answer": 8848
+  },
+  {
+    "id": "cz-018",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik spolkových zemí má Německo?",
+    "answer": 16
+  },
+  {
+    "id": "cz-019",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik kantonů má Švýcarsko?",
+    "answer": 26
+  },
+  {
+    "id": "cz-020",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik kilometrů měří rovník přibližně?",
+    "answer": 40075
+  },
+  {
+    "id": "cz-021",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik stupňů má součet vnitřních úhlů trojúhelníku?",
+    "answer": 180
+  },
+  {
+    "id": "cz-022",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik je druhá mocnina čísla 12?",
+    "answer": 144
+  },
+  {
+    "id": "cz-023",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik minut má jeden den?",
+    "answer": 1440
+  },
+  {
+    "id": "cz-024",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik sekund má jedna hodina?",
+    "answer": 3600
+  },
+  {
+    "id": "cz-025",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik je faktoriál čísla 5?",
+    "answer": 120
+  },
+  {
+    "id": "cz-026",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik metrů za sekundu je přibližně rychlost zvuku ve vzduchu?",
+    "answer": 343
+  },
+  {
+    "id": "cz-027",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik kilometrů za sekundu urazí světlo ve vakuu přibližně?",
+    "answer": 300000
+  },
+  {
+    "id": "cz-028",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik hran má krychle?",
+    "answer": 12
+  },
+  {
+    "id": "cz-029",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik stěn má pravidelný dvacetistěn?",
+    "answer": 20
+  },
+  {
+    "id": "cz-030",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik prvočísel je menších než 20?",
+    "answer": 8
+  },
+  {
+    "id": "cz-031",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik chromozomů má běžná lidská tělní buňka?",
+    "answer": 46
+  },
+  {
+    "id": "cz-032",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik párů chromozomů má člověk?",
+    "answer": 23
+  },
+  {
+    "id": "cz-033",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik kostí má obvykle dospělý člověk?",
+    "answer": 206
+  },
+  {
+    "id": "cz-034",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik komor má lidské srdce?",
+    "answer": 4
+  },
+  {
+    "id": "cz-035",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik protonů má atom uhlíku?",
+    "answer": 6
+  },
+  {
+    "id": "cz-036",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik protonů má atom kyslíku?",
+    "answer": 8
+  },
+  {
+    "id": "cz-037",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik prvků obsahuje sedmá perioda periodické tabulky?",
+    "answer": 32
+  },
+  {
+    "id": "cz-038",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Při kolika stupních Celsia mrzne čistá voda za normálního tlaku?",
+    "answer": 0
+  },
+  {
+    "id": "cz-039",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Při kolika stupních Celsia vaří čistá voda za normálního tlaku?",
+    "answer": 100
+  },
+  {
+    "id": "cz-040",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik zubů má obvykle dospělý člověk včetně zubů moudrosti?",
+    "answer": 32
+  },
+  {
+    "id": "cz-041",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů jednoho fotbalového týmu je na hřišti při zahájení zápasu?",
+    "answer": 11
+  },
+  {
+    "id": "cz-042",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů jednoho hokejového týmu bývá současně na ledě včetně brankáře?",
+    "answer": 6
+  },
+  {
+    "id": "cz-043",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik kruhů je ve znaku olympijských her?",
+    "answer": 5
+  },
+  {
+    "id": "cz-044",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik bodů má trestný hod v basketbalu?",
+    "answer": 1
+  },
+  {
+    "id": "cz-045",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik setů musí muž vyhrát ve dvouhře na grandslamu?",
+    "answer": 3
+  },
+  {
+    "id": "cz-046",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik metrů měří maratonský běh?",
+    "answer": 42195
+  },
+  {
+    "id": "cz-047",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik jamek má standardní golfové hřiště?",
+    "answer": 18
+  },
+  {
+    "id": "cz-048",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik minut trvá standardní fotbalový zápas bez nastavení a prodloužení?",
+    "answer": 90
+  },
+  {
+    "id": "cz-049",
+    "type": "tip",
+    "category": 5,
+    "difficulty": 1,
+    "question": "Ve kterém roce poprvé vyšel román Babička od Boženy Němcové?",
+    "answer": 1855
+  },
+  {
+    "id": "cz-050",
+    "type": "tip",
+    "category": 5,
+    "difficulty": 2,
+    "question": "Ve kterém roce poprvé vyšel román Osudy dobrého vojáka Švejka?",
+    "answer": 1921
+  },
+  {
+    "id": "cz-051",
+    "type": "tip",
+    "category": 5,
+    "difficulty": 1,
+    "question": "Kolik zpěvů má Máchův Máj?",
+    "answer": 4
+  },
+  {
+    "id": "cz-052",
+    "type": "tip",
+    "category": 5,
+    "difficulty": 1,
+    "question": "Kolik dílů má Tolkienova knižní trilogie Pán prstenů?",
+    "answer": 3
+  },
+  {
+    "id": "cz-053",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Ve kterém roce měl premiéru český film Pelíšky?",
+    "answer": 1999
+  },
+  {
+    "id": "cz-054",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Ve kterém roce měl premiéru film Tři oříšky pro Popelku?",
+    "answer": 1973
+  },
+  {
+    "id": "cz-055",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik hlavních filmů má původní trilogie Star Wars?",
+    "answer": 3
+  },
+  {
+    "id": "cz-056",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik strun má standardní kytara?",
+    "answer": 6
+  },
+  {
+    "id": "cz-057",
+    "type": "tip",
+    "category": 1,
+    "difficulty": 1,
+    "question": "Kolik kláves má standardní moderní klavír?",
+    "answer": 88
+  },
+  {
+    "id": "cz-058",
+    "type": "tip",
+    "category": 1,
+    "difficulty": 1,
+    "question": "Kolik symfonií dokončil Ludwig van Beethoven?",
+    "answer": 9
+  },
+  {
+    "id": "cz-059",
+    "type": "tip",
+    "category": 2,
+    "difficulty": 1,
+    "question": "Kolik měsíců má kalendářní rok?",
+    "answer": 12
+  },
+  {
+    "id": "cz-060",
+    "type": "tip",
+    "category": 2,
+    "difficulty": 1,
+    "question": "Kolik dní má přestupný rok?",
+    "answer": 366
+  },
+  {
+    "id": "cz2026-001",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik korun činí měsíční minimální mzda v Česku v roce 2026?",
+    "answer": 22400,
+    "as_of": "2026",
+    "source_url": "https://mpsv.gov.cz/minimalni-mzda"
+  },
+  {
+    "id": "cz2026-002",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik celých korun činí po zaokrouhlení hodinová minimální mzda v Česku v roce 2026?",
+    "answer": 134,
+    "as_of": "2026",
+    "source_url": "https://mpsv.gov.cz/minimalni-mzda"
+  },
+  {
+    "id": "cz2026-003",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik korun činí predikce průměrné hrubé měsíční mzdy pro rok 2026?",
+    "answer": 51497,
+    "as_of": "2026",
+    "source_url": "https://mpsv.gov.cz/minimalni-mzda"
+  },
+  {
+    "id": "cz2026-004",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik korun činí v roce 2026 nejvyšší výdělek z nekolidujícího zaměstnání?",
+    "answer": 11200,
+    "as_of": "2026",
+    "source_url": "https://mpsv.gov.cz/up-cz/prava-a-povinnosti-uchazece-a-zajemce"
+  },
+  {
+    "id": "cz2026-005",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik obyvatel mělo Česko podle ČSÚ k 31. prosinci 2025?",
+    "answer": 10915839,
+    "as_of": "31. 12. 2025",
+    "source_url": "https://csu.gov.cz/pocet-struktura-a-projekce-obyvatel"
+  },
+  {
+    "id": "cz2026-006",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "O kolik obyvatel přibližně vzrostl počet obyvatel Česka během roku 2025?",
+    "answer": 6300,
+    "as_of": "rok 2025",
+    "source_url": "https://csu.gov.cz/rychle-informace/pohyb-obyvatelstva-rok-2025"
+  },
+  {
+    "id": "cz2026-007",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik obyvatel Česka ve věku 65 a více let evidoval ČSÚ na konci roku 2025?",
+    "answer": 2272755,
+    "as_of": "31. 12. 2025",
+    "source_url": "https://csu.gov.cz/pocet-struktura-a-projekce-obyvatel"
+  },
+  {
+    "id": "cz2026-008",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik tisíc dětí se přibližně živě narodilo v Česku v roce 2025?",
+    "answer": 78,
+    "as_of": "rok 2025",
+    "source_url": "https://csu.gov.cz/rychle-informace/pohyb-obyvatelstva-rok-2025"
+  },
+  {
+    "id": "cz2026-009",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik tisíc lidí přibližně zemřelo v Česku v roce 2025?",
+    "answer": 113,
+    "as_of": "rok 2025",
+    "source_url": "https://csu.gov.cz/rychle-informace/pohyb-obyvatelstva-rok-2025"
+  },
+  {
+    "id": "cz2026-010",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Kolik tisíc sňatků se přibližně uzavřelo v Česku v roce 2025?",
+    "answer": 43,
+    "as_of": "rok 2025",
+    "source_url": "https://csu.gov.cz/rychle-informace/pohyb-obyvatelstva-rok-2025"
+  },
+  {
+    "id": "cz2026-011",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Kolik tisíc rozvodů přibližně proběhlo v Česku v roce 2025?",
+    "answer": 21,
+    "as_of": "rok 2025",
+    "source_url": "https://csu.gov.cz/rychle-informace/pohyb-obyvatelstva-rok-2025"
+  },
+  {
+    "id": "cz2026-012",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik obcí včetně měst evidoval ČSÚ v Česku za rok 2025?",
+    "answer": 6258,
+    "as_of": "31. 12. 2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-013",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik obcí se statutem města evidoval ČSÚ v Česku za rok 2025?",
+    "answer": 610,
+    "as_of": "31. 12. 2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-014",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik statutárních měst evidoval ČSÚ v Česku za rok 2025?",
+    "answer": 27,
+    "as_of": "31. 12. 2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-015",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik městysů evidoval ČSÚ v Česku za rok 2025?",
+    "answer": 232,
+    "as_of": "31. 12. 2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-016",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik správních obvodů obcí s rozšířenou působností má Česko?",
+    "answer": 205,
+    "as_of": "2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-017",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Kolik správních obvodů obcí s pověřeným obecním úřadem má Česko?",
+    "answer": 388,
+    "as_of": "2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-018",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik vojenských újezdů má Česko?",
+    "answer": 4,
+    "as_of": "2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-019",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 1,
+    "question": "Kolik okresů je vymezeno na území Česka?",
+    "answer": 76,
+    "as_of": "2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-020",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Na kolik správních obvodů se dělí hlavní město Praha?",
+    "answer": 22,
+    "as_of": "2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-021",
+    "type": "tip",
+    "category": 3,
+    "difficulty": 2,
+    "question": "Na kolik městských částí se dělí hlavní město Praha?",
+    "answer": 57,
+    "as_of": "2025",
+    "source_url": "https://csu.gov.cz/uzemni-jednotky"
+  },
+  {
+    "id": "cz2026-022",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Kolik poslanců má Poslanecká sněmovna Parlamentu České republiky?",
+    "answer": 200,
+    "as_of": "2026",
+    "source_url": "https://www.psp.cz/eknih/cdrom/ic/pdf/02_cesky_parlament_a_parlamentarismus_12_2025.pdf"
+  },
+  {
+    "id": "cz2026-023",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Kolik senátorů má Senát Parlamentu České republiky?",
+    "answer": 81,
+    "as_of": "2026",
+    "source_url": "https://www.senat.cz/senat/index.php?lng=cz"
+  },
+  {
+    "id": "fun2026-001",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik týmů hrálo na mistrovství světa ve fotbale 2026?",
+    "answer": 48,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/strategic-objectives-2023-2027/goal-9"
+  },
+  {
+    "id": "fun2026-002",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik zápasů mělo mistrovství světa ve fotbale 2026?",
+    "answer": 104,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/strategic-objectives-2023-2027/goal-9"
+  },
+  {
+    "id": "fun2026-003",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "V kolika zemích se konalo mistrovství světa ve fotbale 2026?",
+    "answer": 3,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/strategic-objectives-2023-2027/goal-9"
+  },
+  {
+    "id": "fun2026-004",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Na kolika stadionech se hrálo mistrovství světa ve fotbale 2026?",
+    "answer": 16,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/strategic-objectives-2023-2027/goal-9"
+  },
+  {
+    "id": "fun2026-005",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik skupin mělo mistrovství světa ve fotbale 2026?",
+    "answer": 12,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/strategic-objectives-2023-2027/goal-9"
+  },
+  {
+    "id": "fun2026-006",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik zápasů se hrálo ve skupinové fázi mistrovství světa ve fotbale 2026?",
+    "answer": 72,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/strategic-objectives-2023-2027/goal-9"
+  },
+  {
+    "id": "fun2026-007",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik zápasů odehrál finalista mistrovství světa ve fotbale 2026?",
+    "answer": 8,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/strategic-objectives-2023-2027/goal-9"
+  },
+  {
+    "id": "fun2026-008",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik hráčů bylo potvrzeno na soupiskách mistrovství světa ve fotbale 2026?",
+    "answer": 1248,
+    "topic": "nonpolitical",
+    "as_of": "MS 2026",
+    "source_url": "https://football-technology.fifa.com/organisation/media-releases/world-cup-2026-48-squads-confirmed"
+  },
+  {
+    "id": "fun2026-009",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik sportovních disciplín měly zimní olympijské hry Milano Cortina 2026?",
+    "answer": 16,
+    "topic": "nonpolitical",
+    "as_of": "ZOH 2026",
+    "source_url": "https://library.olympics.com/cnomar/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3855926&parentDocumentId=3855924&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "fun2026-010",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik soutěží přibližně měly zimní olympijské hry Milano Cortina 2026?",
+    "answer": 195,
+    "topic": "nonpolitical",
+    "as_of": "ZOH 2026",
+    "source_url": "https://library.olympics.com/cnomar/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3855926&parentDocumentId=3855924&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "fun2026-011",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik sportovců přibližně hostily zimní olympijské hry Milano Cortina 2026?",
+    "answer": 2900,
+    "topic": "nonpolitical",
+    "as_of": "ZOH 2026",
+    "source_url": "https://library.olympics.com/cnomar/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3855926&parentDocumentId=3855924&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "fun2026-012",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Na kolika soutěžních místech se konaly zimní olympijské hry Milano Cortina 2026?",
+    "answer": 14,
+    "topic": "nonpolitical",
+    "as_of": "ZOH 2026",
+    "source_url": "https://library.olympics.com/cnomar/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3855926&parentDocumentId=3855924&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "fun2026-013",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik nových disciplín přibylo na zimních olympijských hrách Milano Cortina 2026?",
+    "answer": 1,
+    "topic": "nonpolitical",
+    "as_of": "ZOH 2026",
+    "source_url": "https://library.olympics.com/cnomar/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3855926&parentDocumentId=3855924&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "fun2026-014",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik tisíc návštěvníků překonal český pavilon na EXPO 2025?",
+    "answer": 1500,
+    "topic": "nonpolitical",
+    "as_of": "10. 10. 2025",
+    "source_url": "https://expo2025czechia.com/en/blog/the-czech-pavilion-at-expo-2025-welcomed-its-15-millionth-visitor-four-days-before-the-end-of-the-exhibition"
+  },
+  {
+    "id": "fun2026-015",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik milionů návštěvníků přibližně prošlo EXPO 2025 do 10. října?",
+    "answer": 28,
+    "topic": "nonpolitical",
+    "as_of": "10. 10. 2025",
+    "source_url": "https://expo2025czechia.com/en/blog/the-czech-pavilion-at-expo-2025-welcomed-its-15-millionth-visitor-four-days-before-the-end-of-the-exhibition"
+  },
+  {
+    "id": "fun2026-016",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik tisíc lidí přibližně navštěvovalo český pavilon na EXPO 2025 denně?",
+    "answer": 13,
+    "topic": "nonpolitical",
+    "as_of": "říjen 2025",
+    "source_url": "https://expo2025czechia.com/en/blog/the-czech-pavilion-at-expo-2025-welcomed-its-15-millionth-visitor-four-days-before-the-end-of-the-exhibition"
+  },
+  {
+    "id": "fun2026-017",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik tisíc lidí přibližně navštívilo český pavilon první den EXPO 2025?",
+    "answer": 15,
+    "topic": "nonpolitical",
+    "as_of": "13. 4. 2025",
+    "source_url": "https://expo2025czechia.com/aktuality/ministr-lipavsky-slavnostne-otevrel-cesky-narodni-pavilon-na-expo-2025-za-prvni-den-ho-navstivilo-temer-15-tisic-lidi"
+  },
+  {
+    "id": "fun2026-018",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik piv se vyčepovalo v českém pavilonu během prvního dne EXPO 2025?",
+    "answer": 1500,
+    "topic": "nonpolitical",
+    "as_of": "13. 4. 2025",
+    "source_url": "https://expo2025czechia.com/aktuality/ministr-lipavsky-slavnostne-otevrel-cesky-narodni-pavilon-na-expo-2025-za-prvni-den-ho-navstivilo-temer-15-tisic-lidi"
+  },
+  {
+    "id": "fun2026-019",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce byl postaven pražský Staroměstský orloj?",
+    "answer": 1410,
+    "topic": "nonpolitical",
+    "as_of": "ověřeno 2026",
+    "source_url": "https://prague.eu/en/objevujte/old-town-hall-with-astronomical-clock-staromestska-radnice-s-orlojem"
+  },
+  {
+    "id": "fun2026-020",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik pozemských dní přibližně trvá oběh Merkuru kolem Slunce?",
+    "answer": 88,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-021",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik pozemských dní přibližně trvá oběh Venuše kolem Slunce?",
+    "answer": 225,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-022",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik pozemských dní přibližně trvá oběh Marsu kolem Slunce?",
+    "answer": 687,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-023",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik kilometrů činí přibližná průměrná vzdálenost Měsíce od Země?",
+    "answer": 384400,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-024",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik chemických prvků je oficiálně pojmenováno v periodické tabulce?",
+    "answer": 118,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-025",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik minut přibližně trvá jeden oběh Mezinárodní vesmírné stanice kolem Země?",
+    "answer": 90,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-026",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 2,
+    "question": "Kolik kilometrů za sekundu činí přesná rychlost světla ve vakuu po zaokrouhlení?",
+    "answer": 299792,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-027",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik procent povrchu Země přibližně pokrývá voda?",
+    "answer": 71,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-028",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik stupňů Celsia je běžná hodnota lidské tělesné teploty?",
+    "answer": 37,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-029",
+    "type": "tip",
+    "category": 7,
+    "difficulty": 1,
+    "question": "Kolik měsíců má planeta Mars?",
+    "answer": 2,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-030",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů jednoho basketbalového týmu je současně na hřišti?",
+    "answer": 5,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-031",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů jednoho volejbalového týmu je současně na hřišti?",
+    "answer": 6,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-032",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů jednoho házenkářského týmu je současně na hřišti včetně brankáře?",
+    "answer": 7,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-033",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů má baseballový tým v obraně na hřišti?",
+    "answer": 9,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-034",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik hráčů má tým v rugby union na hřišti?",
+    "answer": 15,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-035",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů jednoho týmu je ve vodním pólu současně ve vodě?",
+    "answer": 7,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-036",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů jednoho futsalového týmu je současně na hřišti včetně brankáře?",
+    "answer": 5,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-037",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik hráčů má jeden curlingový tým?",
+    "answer": 4,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-038",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Ve kterém roce byl představen první iPhone?",
+    "answer": 2007,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-039",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Ve kterém roce Tim Berners-Lee předložil první návrh World Wide Webu?",
+    "answer": 1989,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "fun2026-040",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Ve kterém roce se začal prodávat první telefon s Androidem?",
+    "answer": 2008,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-001",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce proběhla bitva u Hastingsu?",
+    "answer": 1066,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-002",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce byla v Anglii vydána Magna charta?",
+    "answer": 1215,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-003",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce doplul Kryštof Kolumbus poprvé do Ameriky?",
+    "answer": 1492,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-004",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce začala Velká francouzská revoluce?",
+    "answer": 1789,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-005",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce byla přijata americká Deklarace nezávislosti?",
+    "answer": 1776,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-006",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce padla Konstantinopol do rukou Osmanů?",
+    "answer": 1453,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-007",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce přistáli lidé poprvé na Měsíci?",
+    "answer": 1969,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-008",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce se potopil Titanic?",
+    "answer": 1912,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-009",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce našeho letopočtu vybuchl Vesuv a zasypal Pompeje?",
+    "answer": 79,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-010",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce byl položen základní kámen Karlova mostu?",
+    "answer": 1357,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-011",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce bylo poprvé otevřeno Národní divadlo v Praze?",
+    "answer": 1881,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-012",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce bylo Národní divadlo po požáru znovu otevřeno?",
+    "answer": 1883,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-013",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce bylo založeno Národní muzeum v Praze?",
+    "answer": 1818,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-014",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce začalo pravidelné rozhlasové vysílání v Československu?",
+    "answer": 1923,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-015",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce začalo pravidelné televizní vysílání v Československu?",
+    "answer": 1953,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-016",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Ve kterém roce vyšlo poprvé drama R.U.R. Karla Čapka?",
+    "answer": 1920,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-017",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Kolik let trvala třicetiletá válka?",
+    "answer": 30,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-018",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 2,
+    "question": "Kolik let přibližně trvala stoletá válka?",
+    "answer": 116,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-019",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce tradičně datujeme zánik Západořímské říše?",
+    "answer": 476,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "history-020",
+    "type": "tip",
+    "category": 4,
+    "difficulty": 1,
+    "question": "Ve kterém roce před naším letopočtem se tradičně konaly první antické olympijské hry?",
+    "answer": 776,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-001",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik je sedm na třetí?",
+    "answer": 343,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-002",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik je druhá odmocnina ze 144?",
+    "answer": 12,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-003",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik je 15 procent z čísla 200?",
+    "answer": 30,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-004",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik je dvě na desátou?",
+    "answer": 1024,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-005",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Jaký je největší společný dělitel čísel 48 a 18?",
+    "answer": 6,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-006",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Jaký je nejmenší společný násobek čísel 12 a 18?",
+    "answer": 36,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-007",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik je součet všech celých čísel od 1 do 100?",
+    "answer": 5050,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-008",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Jakou desítkovou hodnotu má šestnáctkové číslo FF?",
+    "answer": 255,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-009",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Jakou desítkovou hodnotu má dvojkové číslo 1010?",
+    "answer": 10,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-010",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik stupňů má součet vnitřních úhlů pětiúhelníku?",
+    "answer": 540,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-011",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik úhlopříček má šestiúhelník?",
+    "answer": 9,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-012",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik vrcholů má krychle?",
+    "answer": 8,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-013",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik stěn má pravidelný dvanáctistěn?",
+    "answer": 12,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-014",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik prvočísel je menších než 100?",
+    "answer": 25,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-015",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Jaké je desáté číslo Fibonacciho posloupnosti začínající čísly 1 a 1?",
+    "answer": 55,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-016",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik je nula faktoriál?",
+    "answer": 1,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-017",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik je tři na pátou?",
+    "answer": 243,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-018",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 2,
+    "question": "Kolik sekund má celý den?",
+    "answer": 86400,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-019",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolika způsoby lze vybrat dvojici z deseti lidí?",
+    "answer": 45,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "math-020",
+    "type": "tip",
+    "category": 6,
+    "difficulty": 1,
+    "question": "Kolik stupňů má plný úhel?",
+    "answer": 360,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-001",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik kapes má běžný poolový stůl?",
+    "answer": 6,
+    "topic": "nonpolitical",
+    "source_url": "https://wpapool.com/wp-content/uploads/2024/01/WPA_New_Rules_01MAR2016-fixed-spelling.pdf"
+  },
+  {
+    "id": "cuesport-002",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "S kolika očíslovanými koulemi se hraje osmička v poolu?",
+    "answer": 15,
+    "topic": "nonpolitical",
+    "source_url": "https://wpapool.com/wp-content/uploads/2024/01/WPA_New_Rules_01MAR2016-fixed-spelling.pdf"
+  },
+  {
+    "id": "cuesport-003",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik koulí je na stole na začátku osmičky včetně bílé?",
+    "answer": 16,
+    "topic": "nonpolitical",
+    "source_url": "https://wpapool.com/wp-content/uploads/2024/01/WPA_New_Rules_01MAR2016-fixed-spelling.pdf"
+  },
+  {
+    "id": "cuesport-004",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik koulí obsahuje jedna hráčova skupina v osmičce?",
+    "answer": 7,
+    "topic": "nonpolitical",
+    "source_url": "https://wpapool.com/wp-content/uploads/2024/01/WPA_New_Rules_01MAR2016-fixed-spelling.pdf"
+  },
+  {
+    "id": "cuesport-005",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "S kolika očíslovanými koulemi se hraje devítka?",
+    "answer": 9,
+    "topic": "nonpolitical",
+    "source_url": "https://wpapool.com/wp-content/uploads/2024/01/WPA_New_Rules_01MAR2016-fixed-spelling.pdf"
+  },
+  {
+    "id": "cuesport-006",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik červených koulí je na začátku snookerového framu?",
+    "answer": 15,
+    "topic": "nonpolitical",
+    "source_url": "https://www.wpbsa.com/rules/"
+  },
+  {
+    "id": "cuesport-007",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik koulí je na začátku snookerového framu včetně bílé?",
+    "answer": 22,
+    "topic": "nonpolitical",
+    "source_url": "https://www.wpbsa.com/rules/"
+  },
+  {
+    "id": "cuesport-008",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik bodů má standardní maximální náběh ve snookeru?",
+    "answer": 147,
+    "topic": "nonpolitical",
+    "source_url": "https://wpbsa.com/gilbert-makes-historic-147th-maximum/"
+  },
+  {
+    "id": "cuesport-009",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik bodů má teoreticky nejvyšší snookerový náběh s volnou koulí?",
+    "answer": 155,
+    "topic": "nonpolitical",
+    "source_url": "https://wpbsa.com/gilbert-makes-historic-147th-maximum/"
+  },
+  {
+    "id": "cuesport-010",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik barevných koulí je ve snookeru?",
+    "answer": 6,
+    "topic": "nonpolitical",
+    "source_url": "https://www.wpbsa.com/rules/"
+  },
+  {
+    "id": "cuesport-011",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "S kolika koulemi se hraje karambol?",
+    "answer": 3,
+    "topic": "nonpolitical",
+    "source_url": "https://files.umb-carom.org/Public/Rules/CAROM%20BILLIARD%20RULES.pdf"
+  },
+  {
+    "id": "cuesport-012",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik bodů má jeden platný karambol podle pravidel UMB?",
+    "answer": 1,
+    "topic": "nonpolitical",
+    "source_url": "https://files.umb-carom.org/Public/Rules/CAROM%20BILLIARD%20RULES.pdf"
+  },
+  {
+    "id": "cuesport-013",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik kuželek stojí na začátku bowlingového hodu?",
+    "answer": 10,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-014",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Kolik bodů je maximální výsledek jedné bowlingové hry?",
+    "answer": 300,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-015",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 2,
+    "question": "Od kolika bodů se obvykle začíná jeden leg v šipkách?",
+    "answer": 501,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-016",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik bodů má v šipkách střed terče označovaný jako double bull?",
+    "answer": 50,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-017",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik bodů je běžně třeba k vítězství v setu stolního tenisu?",
+    "answer": 11,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-018",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik bodů je běžně třeba k vítězství v badmintonovém setu?",
+    "answer": 21,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-019",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik bodů je běžně třeba k vítězství v prvních čtyřech volejbalových setech?",
+    "answer": 25,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "cuesport-020",
+    "type": "tip",
+    "category": 8,
+    "difficulty": 1,
+    "question": "Kolik bodů je minimálně třeba k vítězství v tenisovém tie-breaku?",
+    "answer": 7,
+    "topic": "nonpolitical"
+  },
+  {
+    "id": "poker-001",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet má standardní balíček pro Texas Hold’em?",
+    "answer": 52,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-002",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik barev má standardní balíček karet?",
+    "answer": 4,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-003",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik hodnot karet obsahuje každá barva standardního balíčku?",
+    "answer": 13,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-004",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik vlastních zakrytých karet dostane hráč v Texas Hold’em?",
+    "answer": 2,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-005",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik společných karet se celkem vyloží v Texas Hold’em?",
+    "answer": 5,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-006",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik společných karet se vyloží na flopu v Texas Hold’em?",
+    "answer": 3,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-007",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet se vyloží na turnu v Texas Hold’em?",
+    "answer": 1,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-008",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet se vyloží na riveru v Texas Hold’em?",
+    "answer": 1,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-009",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik kol sázek má Texas Hold’em?",
+    "answer": 4,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-010",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Z kolika karet se skládá výsledná pokerová kombinace?",
+    "answer": 5,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-011",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Z kolika dostupných karet vybírá hráč nejlepší kombinaci v Texas Hold’em?",
+    "answer": 7,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-012",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik hráčů může podle běžných pravidel maximálně sedět u jednoho stolu Texas Hold’em?",
+    "answer": 10,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-013",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik různých dvoukaretních kombinací lze rozdat z balíčku 52 karet?",
+    "answer": 1326,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-014",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik základních typů startovních kombinací má Texas Hold’em bez rozlišení konkrétních barev?",
+    "answer": 169,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-015",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik vlastních karet dostane hráč v běžné Omaze?",
+    "answer": 4,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/omaha/"
+  },
+  {
+    "id": "poker-016",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik vlastních karet musí hráč přesně použít při sestavení kombinace v Omaze?",
+    "answer": 2,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/omaha/"
+  },
+  {
+    "id": "poker-017",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik společných karet musí hráč přesně použít při sestavení kombinace v Omaze?",
+    "answer": 3,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/omaha/"
+  },
+  {
+    "id": "poker-018",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet má balíček pro Short Deck Hold’em?",
+    "answer": 36,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-019",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet tvoří čtveřici neboli poker?",
+    "answer": 4,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "poker-020",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet celkem tvoří full house?",
+    "answer": 5,
+    "topic": "nonpolitical",
+    "source_url": "https://officialpokerrules.com/texas-holdem/"
+  },
+  {
+    "id": "blackjack-001",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "K jakému součtu se hráč snaží přiblížit v blackjacku?",
+    "answer": 21,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-002",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet má jeden standardní balíček používaný v blackjacku?",
+    "answer": 52,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-003",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik barev má standardní balíček pro blackjack?",
+    "answer": 4,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-004",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet obsahuje každá barva standardního balíčku?",
+    "answer": 13,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-005",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik bodů má v blackjacku král, dáma nebo kluk?",
+    "answer": 10,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-006",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik bodů může mít eso jako svou vyšší hodnotu?",
+    "answer": 11,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-007",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik bodů může mít eso jako svou nižší hodnotu?",
+    "answer": 1,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-008",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet dostane hráč na začátku rozdání blackjacku?",
+    "answer": 2,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-009",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Z kolika úvodních karet se musí skládat pravý blackjack?",
+    "answer": 2,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-010",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Do kolika bodů včetně dealer podle běžného pravidla dobírá?",
+    "answer": 16,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-011",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Od kolika bodů dealer podle pravidla S17 stojí?",
+    "answer": 17,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-012",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Při překročení kolika bodů hráč v blackjacku prohrává?",
+    "answer": 21,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-013",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik balíčků nejvýše připouštějí citovaná standardní pravidla blackjacku?",
+    "answer": 8,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-014",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik balíčků nejméně používá vícbaličková hra podle citovaných pravidel?",
+    "answer": 4,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-015",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik karet obsahuje botka se šesti standardními balíčky?",
+    "answer": 312,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-016",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 2,
+    "question": "Kolik karet obsahuje botka s osmi standardními balíčky?",
+    "answer": 416,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-017",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik es obsahuje jeden standardní balíček?",
+    "answer": 4,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-018",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik obrázkových karet obsahuje jeden standardní balíček?",
+    "answer": 12,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-019",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Kolik karet v jednom balíčku má v blackjacku hodnotu deset?",
+    "answer": 16,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  },
+  {
+    "id": "blackjack-020",
+    "type": "tip",
+    "category": 9,
+    "difficulty": 1,
+    "question": "Na kolik samostatných rukou se obvykle rozdělí jeden pár při splitu?",
+    "answer": 2,
+    "topic": "nonpolitical",
+    "source_url": "https://dor.sd.gov/media/0eddy5zv/rule-book-07-29-2019.pdf"
+  }
+]

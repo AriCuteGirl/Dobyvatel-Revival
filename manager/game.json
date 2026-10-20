@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "id": "dobyvatel",
+  "name": "Dobyvatel",
+  "publisher": "THX Games Zrt. (2019)",
+  "platform": "Android",
+  "description": "Dobyvatel private-server revival with persistent accounts and solo game emulation.",
+  "icon": "manager/icon.svg",
+  "art": "manager/art.svg",
+  "accent": "#d5963a",
+  "server": {
+    "dir": "server",
+    "files": ["dobyvatel_server.py", "manage.py", "settings.json", "questions_cz.json"],
+    "keep_on_update": ["settings.json", "data/"],
+    "install_dir": "~/dobyvatel-server",
+    "start": "python3 -u dobyvatel_server.py",
+    "requires": "python3 >= 3.10",
+    "env": {
+      "DOBYVATEL_BIND": "0.0.0.0",
+      "DOBYVATEL_PORT": "{port}",
+      "DOBYVATEL_PUBLIC_HOST": "{public_host}",
+      "DOBYVATEL_PUBLIC_PORT": "{port}",
+      "DOBYVATEL_DATA_DIR": "{data_dir}"
+    },
+    "ports": [
+      {"name": "game", "label": "Game API (HTTP)", "default": 18080, "protocol": "tcp", "required": true}
+    ],
+    "health": {"type": "http", "port": "game", "path": "/health", "expect": 200},
+    "data_dir": "data",
+    "log_file": "dobyvatel.log",
+    "service_name": "dobyvatel",
+    "systemd_extra": ["UMask=0077", "MemoryMax=300M"]
+  },
+  "manage": "server/manage.py",
+  "settings": {
+    "file": "settings.json",
+    "restart_after_change": false,
+    "fields": [
+      {"key": "start_gold", "label": "Starting gold", "help": "Gold given to a newly registered account.", "type": "int", "min": 0, "max": 1000000},
+      {"key": "max_players_per_room", "label": "Players per room", "type": "int", "min": 2, "max": 3},
+      {"key": "server_name", "label": "Server name", "type": "string"}
+    ]
+  },
+  "currencies": [
+    {"key": "gold", "label": "Gold", "icon": "money", "min": 0, "max": 1000000},
+    {"key": "level", "label": "Level", "icon": "star", "min": 1, "max": 200},
+    {"key": "xp", "label": "Experience XP", "icon": "star", "min": 0, "max": 20000},
+    {"key": "buildingsUnlocked", "field": "buildings_unlocked", "label": "Unlock all buildings", "icon": "star", "type": "bool", "min": 0, "max": 1},
+    {"key": "castleLevel", "field": "castle_level", "label": "Castle tier", "icon": "star", "min": 1, "max": 7},
+    {"key": "energy", "label": "Energy", "icon": "star", "min": 0, "max": 999},
+    {"key": "lives", "label": "Lives", "icon": "star", "min": 0, "max": 999},
+    {"key": "powerups", "label": "Hints / Power-ups", "icon": "star", "min": 0, "max": 9999}
+  ],
+  "player_roles": [
+    {"key": "puppy", "label": "Puppy (Owner)"},
+    {"key": "admin", "label": "Admin"},
+    {"key": "member", "label": "Member"}
+  ],
+  "player_name_editable": true,
+  "player_password_editable": true,
+  "edit_requires_stop": true,
+  "client": {
+    "title": "Build the Dobyvatel Revival APK",
+    "how_to": [
+      "Use your original Dobyvatel 2019.04.17 APK. No OBB is required.",
+      "$ python3 tools/build_port.py /path/to/Dobyvatel.apk build/Dobyvatel-Revival.apk http://{public_host}:{port} --arch armv8",
+      "Uninstall an older revival build if Android reports a signing-key conflict, then install the rebuilt APK on every device. Your server account remains available with the same username and password."
+    ],
+    "rebuild_when_address_changes": true
+  }
+}
