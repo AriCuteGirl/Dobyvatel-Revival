@@ -1,0 +1,38 @@
+# Private host configuration
+.env
+.env.*
+!.env.example
+deploy/deploy.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+*.ppk
+# Data, sessions, logs
+server/data/
+server/settings.json
+*.log
+*.db
+*.sqlite*
+# Third-party game assets, SDKs and generated packages
+*.apk
+*.swf
+*.idsig
+port64/app/
+port64/certs/
+port64/dist/
+port64/android-sdk/
+recon/
+artifacts/
+build/
+dist/
+tools/air-sdk*/
+tools/ffdec/
+*.jar
+# Python/other
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
